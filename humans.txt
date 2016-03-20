@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    Igor Gurovich  igor.gurovich@gmail.com
 
 # THANKS
 
