@@ -11,5 +11,7 @@ This isan example to show different parts of Git repository and various commands
 Sample website with plenty of files for demos
 
 ## Deployment
+This is a simple web project, deployment can be to any web server, even local.
 
 ## How To Contribute
+TBD
