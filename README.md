@@ -15,3 +15,6 @@ This is a simple web project, deployment can be to any web server, even local.
 
 ## How To Contribute
 TBD
+
+### Copyright
+2016 Git.Training
