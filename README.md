@@ -14,7 +14,7 @@ Sample website with plenty of files for demos
 This is a simple web project, deployment can be to any web server, even local.
 
 ## How To Contribute
-TBD
+Please fork this repo from guthub, then issue PR
 
 ### Copyright
 2016 Git.Training
